@@ -1,6 +1,6 @@
 # Hacking-tico
 
-<img src="https://i.postimg.cc/4NwmzRqK/1.png" title="Doxing">
+<img src="https://i.postimg.cc/t4872m3P/3.png" title="Doxing">
 
 # ABOUT.
 Doxing, written in Python to search your goal, based on a simple and complete structure for anyone to use, modify and share, the goal is to find information in the easiest way of your victim, stalker, etc. Whose technique is called doxing, espionage and information gathering. The current version is completely stable. Automate the search since each option gives you a website so you can search for people's data.
